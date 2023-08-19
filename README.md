@@ -1,6 +1,8 @@
 **Project name:**  
 My Tic-Tac-Toe App
 
+<br>
+<br>
 
 
 <div align="center">
@@ -8,6 +10,8 @@ My Tic-Tac-Toe App
     <img src="my_tictactoe_app1.PNG" alt="Image 2"/>
 </div>
 
+<br>
+<br>
 
 
 **Project Description:**  
