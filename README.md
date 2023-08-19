@@ -1,6 +1,11 @@
 **Project name:**  
 My Tic-Tac-Toe App
 
+<div align="center">
+    <img src="my_tictactoe_app.PNG" alt="Image 1"/>
+    <img src="my_tictactoe_app1.PNG" alt="Image 2"/>
+</div>
+
 **Project Description:**  
 This user-friendly app allows playing the classy Tic-Tac-Toe game with the computer (solo) or another player (multiplayer). 
 Players take turns placing their X or O symbols on a 3x3 grid by clicking the cells. The app provides real-time feedback on the game's progress, 
